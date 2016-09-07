@@ -1,2 +1,2 @@
-FROM alpina
+FROM alpine
 RUN date > datefile
